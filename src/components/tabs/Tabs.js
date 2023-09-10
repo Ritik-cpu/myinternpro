@@ -4,7 +4,7 @@ import { data } from './data'
 import './Tabs.css'
 
 export const Tabs = () => {
-  const [jobs, setJobs]=useState(data)
+  const jobs=data
   const [value,setValue]=useState(0)
 
   const {comapany,dates,duties,title}=jobs[value]
