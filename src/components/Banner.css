@@ -1,0 +1,16 @@
+.banner{
+    color: blue;
+}
+
+.card-img{
+    height: 350px;
+    border-radius: 0px;
+    opacity: black;
+    opacity: 0.5;
+    
+    /* background-color :rgba(0, 0, 0, 0.468) !important; */
+}
+
+.mycard{
+    border-radius: 0px;
+}

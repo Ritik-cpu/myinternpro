@@ -1,0 +1,10 @@
+.textverti{
+
+}
+
+.textverti::before {
+    content: "|";
+    margin-right: 10px;
+    font-weight: 600;
+    font-size: 25px;
+  }
